@@ -17,6 +17,7 @@ var __signature__ = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoader
 
 console.log('Content script works!');
 console.log('Must reload extension for modifications to take effect.');
+console.log('This is a test');
 (0,_modules_print__WEBPACK_IMPORTED_MODULE_0__.printLine)("Using the 'printLine' function from the Print Module");
 
 /***/ }),
