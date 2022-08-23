@@ -1,0 +1,19 @@
+.none {display: none;}
+
+.flex {display: flex;}
+
+.margin-5px {margin: 5px}
+
+.column {flex-direction: column;}
+
+.no-border {border: none;}
+
+.width-50 {width: 50%;}
+
+.width-100 {width: 100%;}
+
+.center-h {justify-content: center;}
+
+.center-v {align-items: center;}
+
+.space-around {justify-content: space-around;}
